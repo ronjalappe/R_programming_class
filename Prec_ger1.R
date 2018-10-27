@@ -25,7 +25,7 @@ spplot(prec_ger2)
 prec_avg<-cellStats(prec_ger2,stat="mean")
 summary(prec_avg)
 
-#---------------------------------------------------------------------------
+#-------------------------------------------------------------------------
 # back to precipitation example! (task of 2nd lesson)
 # how to just extract the value of July?
 prec_ger2

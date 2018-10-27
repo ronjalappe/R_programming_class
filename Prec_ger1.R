@@ -34,7 +34,7 @@ prec_avg[7] # yey. 78.7mm
 # how to plot April to September?
 prec_avg[4:9]
 prec_avg[2]-prec_avg[1] # subscract the Jan from the Feb prec
-sum(prec_avg) # sum of precipitation... etc. 
+sum(prec_avg) # sum of precipitation... etc.
 
 
 

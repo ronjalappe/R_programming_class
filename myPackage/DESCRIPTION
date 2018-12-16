@@ -1,0 +1,10 @@
+Package: myPackage
+Title: Random 
+Version: 0.0.0.9000
+Authors@R: person("Ronja", "Lappe", email = "ronja.lappe@posteo.de", role = c("aut", "cre"))
+Description: Let's see.
+Depends: R (>= 3.5.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
